@@ -1,0 +1,20 @@
+[
+  {
+    "caption": "Ура, 1.20.4",
+    "description": "Мы обновили все версии Forge, Quilt и Fabric. Так же обновлён authlib-injector, используемый Ely.by",
+    "additional": "<span style='font-size: 10pt; color: gray; margin-top: 8px;'>20.12.2023</span>",
+    "icon": "<span style='font-size: 86pt'>🆕</span>"
+  },
+  {
+    "caption": "Ура, Ely.by",
+    "description": "В версии 1.0.11 появилась поддержка Ely.by, обязательно обновляйся!",
+    "additional": "<span style='font-size: 10pt; color: gray; margin-top: 8px;'>17.08.2023</span>",
+    "icon": "<img src='http://froglauncher.seeroy.ru/assets/elyby.png' style='height: 128px;'>"
+  },
+  {
+    "caption": "Первый обзор на FrogLauncher",
+    "description": "<span onclick=openExternal('https://youtu.be/nBzLRuG33oM') class='font-medium text-blue-600 dark:text-blue-500 hover:underline cursor-pointer'>Нажми сюда для открытия видео</span>",
+    "additional": "<span style='font-size: 10pt; color: gray; margin-top: 8px;'>20.07.2023</span>",
+    "icon": "<span style='font-size: 86pt'>📹</span>"
+  }
+]
